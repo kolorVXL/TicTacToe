@@ -124,7 +124,7 @@ object TttGame {
 
         if (draw) {
             graphics.color = Color.GRAY
-            graphics.drawString("DRAW! ㄴㄱㅁ", 50, 430)
+            graphics.drawString("DRAW!", 50, 430)
         }
 
         TttFrame.apply(image)
